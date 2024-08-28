@@ -1,5 +1,6 @@
 ## Overview
 - Simple startup web layout using bootstrap
+- Responsive webpage
 
 ## Technologies:
   * HTML
